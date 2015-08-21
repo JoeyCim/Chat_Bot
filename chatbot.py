@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 from collections import OrderedDict
 import requests
 
-FOUL_WORDS = ["smeckledorf"]
+FOUL_WORDS = ["smeckledorfed"]
 BALL_RESPONSES = ["It will happen!", "The odds are in your favor.",  
         "You might get lucky!", "Maybe on a blue moon.",
         "The odds are stacked against you.", "Not today I'm afraid."]
